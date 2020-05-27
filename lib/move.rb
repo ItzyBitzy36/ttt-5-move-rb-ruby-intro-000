@@ -13,6 +13,10 @@ def input_to_index(input)
   input.to_i - 1
 end
 
+<<<<<<< HEAD
 def move(baord,index,player = "X")
  baord[index]=player
+=======
+def move(board,index,player = "x")
+>>>>>>> 02fa35acf16bd4532c232faca6cde2676f7a5dd5
 end
